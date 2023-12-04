@@ -1,0 +1,12 @@
+.member-name {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #444;
+}
+.member-info {
+    color: #555;
+    margin: 0;
+}
+.light-dark-bg {
+    background-color: #eef5ff;
+}
